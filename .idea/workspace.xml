@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c89d44fd-60c4-4b07-812b-741aefea3a63" name="Changes" comment="lecture code for 7">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c89d44fd-60c4-4b07-812b-741aefea3a63" name="Changes" comment="lecture code for 7 and 8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +24,13 @@
         <option value="Alexander" />
       </list>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -87,7 +91,35 @@
       <option name="project" value="LOCAL" />
       <updated>1713738703298</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lecture code for 7">
+      <created>1713802144414</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713802144414</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lecture code for 7 and 8">
+      <created>1713803013408</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713803013408</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lecture code for 7 and 8">
+      <created>1713803140200</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713803140200</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lecture code for 7 and 8">
+      <created>1713803180882</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713803180882</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +135,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lecture code for 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="lecture code for 7" />
+    <MESSAGE value="lecture code for 7 and 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="lecture code for 7 and 8" />
   </component>
 </project>
